@@ -1,0 +1,8 @@
+[package]
+
+name = "gb-status-server"
+version = "0.0.1"
+authors = ["Miguel Palhas <mpalhas@gmail.com>"]
+
+[dependencies]
+rustic-io = "*"

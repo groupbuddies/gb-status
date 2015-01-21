@@ -1,0 +1,9 @@
+[package]
+
+name = "gb-status-common"
+version = "0.0.1"
+authors = ["Miguel Palhas <mpalhas@gmail.com>"]
+
+[lib]
+name = "gb-status-common"
+path = "src/gb_status_common.rs"
